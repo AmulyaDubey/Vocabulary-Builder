@@ -1,0 +1,199 @@
+{
+    "words":{
+        "Intelligent":[ 
+            "Wise", 
+            "Knowledegable",
+            "Erudite",
+            "Prudent",
+            "Prudence",
+            "Egg-Headed",
+            "Sage",
+            "Sagacious",
+            "Cognizant",
+            "Cognizance",
+            "Sapient"
+        ],
+        "Daub": [
+            "Blemish",
+            "Blur",
+            "Blotch",
+            "Spotch",
+            "Splodge"
+        ],
+        "Emotionless":[
+            "Phlegmatic",
+            "Stoic"
+        ],
+        "Clear":[
+            "Limpid",
+            "Lucid",
+            "Pellucid",
+            "Crystalline"
+        ],
+        "Confused":[
+            "Perplexed",
+            "Garbled",
+            "Baffled",
+            "Puzzled",
+            "Fuddle",
+            "Be-fuddle",
+            "Confound",
+            "Perplended",
+            "Bewildered",
+            "Catch-22"
+        ],
+        "Fugacious": [
+            "Short Time"
+        ],
+        "Highly Aggresive":[
+            "Bellicose",
+            "Belligerent"
+        ],
+        "Hoi Polloi":[
+            "Common Man"
+        ],
+        "Assidous":[
+            "Hard working"
+        ],
+        "Sloth": [
+            "Lazy"
+        ],
+        "Friendly":[
+            "Amiable",
+            "Amicable",
+            "Affable",
+            "Cordial",
+            "Genial",
+            "Congenial"
+        ],
+        "Martinent":[
+            "Strict"
+        ],
+        "Acrimony":[
+            "Bitter"
+        ],
+        "Sweet":[
+            "Dulcet",
+            "Mellisonant",
+            "Melliflous"
+        ],
+        "Nascent":[
+            "Beginner",
+            "Fresher",
+            "Early Stage",
+            "Novice",
+            "Neophyte",
+            "Tyro",
+            "Green-Horn",
+            "Apprentice",
+            "Budding"
+        ],
+        "Confutative":[
+            "Untrue",
+            "Invalid",
+            "Refute"
+        ],
+        "Deplored": [
+            "Condemned",
+            "Strongly disapprove"
+        ],
+        "Discontent":[
+            "Lament",
+            "Bewail",
+            "Bemoan",
+            "Decry",
+            "Objurgate"
+        ],
+        "Tacit":[
+            "Implicit",
+            "Hidden",
+            "Unstated",
+            "Silent",
+            "Understood"
+        ],
+        "Taciturn":[
+            "P2P Speaker",
+            "Reticent",
+            "Laconic",
+            "Covert"
+        ],
+        "Overt":[
+            "Openly speaking"
+        ],
+        "Talkative":[
+            "Garrulous",
+            "Loquacious",
+            "Chatty",
+            "Gabby"
+        ],
+        "Angry":[
+            "Livid"
+        ],
+        "Annoyed":[
+            "Miffed"
+        ],
+        "Hate":[
+            "Destest",
+            "Despise",
+            "Abhore"
+        ],
+        "Royal":[
+            "Regal",
+            "Imperial"
+        ],
+        "Urchin":[
+            "Poor",
+            "Shabbily dressed",
+            "Destitude",
+            "Downtowards section of society"
+        ],
+        "Repudiated":[
+            "Renounce",
+            "Reject",
+            "Disown", 
+            "Disapprove"
+        ],
+        "Bucolic":[
+            "Rural People",
+            "Country Men"
+        ],
+        "Contumely":[
+            "Abusive",
+            "Defame",
+            "Villify",
+            "Villification",
+            "Malign",
+            "Disparage",
+            "Denigrate",
+            "Belittle",
+            "Smear"
+        ],
+        "Praise":[
+            "Extol",
+            "Laud",
+            "Applaud",
+            "Laudatory",
+            "Plaudit",
+            "Lionize",
+            "Eulogize",
+            "Commend",
+            "Paen",
+            "Peaen",
+            "Encomium",
+            "Panegyric"
+        ],
+        "Kind":[
+            "Benevolent",
+            "Benevolence",
+            "Munificent",
+            "Generous",
+            "Compassionate",
+            "Magnanimous"
+        ],
+        "Hurtle":[
+            "Dart",
+            "Run",
+            "Scoot"
+        ]
+    }
+}
